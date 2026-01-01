@@ -8,7 +8,7 @@
     {
       "name": "MT Yayakin",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yayakin.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Yahayuk R6",
@@ -28,7 +28,7 @@
     {
       "name": "MT Sendang",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_sendang.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Vegas",
@@ -53,7 +53,7 @@
     {
       "name": "MT Aetheria CVIP",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_coil_vip.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Granite",
@@ -113,22 +113,22 @@
     {
       "name": "MT Aetheria C2 (Dontol)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_jalur_dontol_coil_2.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Aetheria C2 (Pro)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_jalur_pro_coil_2.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Gemi (Normal)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_gemi_jalur_normal.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Gemi (Wasd)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_gemi_jalur_wasd.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Yahayuk (Jalur 1)",
