@@ -103,7 +103,7 @@
     {
       "name": "MT Sendang",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_sendang.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Serrat (Jalur 1)",
