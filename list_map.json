@@ -118,7 +118,7 @@
     {
       "name": "MT Aetheria C2 (Pro)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_jalur_pro_coil_2.json",
-      "locked": true
+      "locked": false
     },
     {
       "name": "MT Gemi (Normal)",
