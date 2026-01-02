@@ -168,7 +168,7 @@
     {
       "name": "MT Yayakin",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yayakin.json",
-      "locked": true
+      "locked": false
     },
     {
       "name": "MT Yntkts (Dontol)",
