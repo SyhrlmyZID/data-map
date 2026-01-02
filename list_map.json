@@ -1,11 +1,6 @@
 {
   "maps": [
     {
-      "name": "MT RullzsyHUB",
-      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/RullzsyHUB.json",
-      "locked": false
-    },
-    {
       "name": "MT Ngebut",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_ngebut.json",
       "locked": false
@@ -58,7 +53,7 @@
     {
       "name": "MT Aetheria CVIP",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_coil_vip.json",
-      "locked": true
+      "locked": false
     },
     {
       "name": "MT Granite",
