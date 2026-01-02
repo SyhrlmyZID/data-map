@@ -1,5 +1,10 @@
 {
   "maps": [
+    {
+      "name": "MT Funny",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_funny.json",
+      "locked": false
+    },
    {
       "name": "MT Mukjijat Obstacle",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_mukjijat_obstacle.json",
