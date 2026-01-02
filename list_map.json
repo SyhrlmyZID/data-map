@@ -1,6 +1,11 @@
 {
   "maps": [
     {
+      "name": "MT Nightfall",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_nightfall.json",
+      "locked": false
+    },
+    {
       "name": "MT Axis",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_axis.json",
       "locked": false
