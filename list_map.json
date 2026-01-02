@@ -63,12 +63,12 @@
     {
       "name": "MT Gemi (Normal)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_gemi_jalur_normal.json",
-      "locked": true
+      "locked": false
     },
     {
       "name": "MT Gemi (Wasd)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_gemi_jalur_wasd.json",
-      "locked": true
+      "locked": false
     },
     {
       "name": "MT Granite",
