@@ -148,7 +148,7 @@
     {
       "name": "MT Vegas",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_vegas.json",
-      "locked": true
+      "locked": false
     },
     {
       "name": "MT Velora",
