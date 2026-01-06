@@ -1,6 +1,11 @@
 {
   "maps": [
     {
+      "name": "MT Space X",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yagesya.json",
+      "locked": false
+    },
+    {
       "name": "MT Yagesya",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yagesya.json",
       "locked": false
@@ -47,7 +52,7 @@
     },
     {
       "name": "MT Sulawesi",
-      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_sulawesi.json",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_space_x.json",
       "locked": false
     },
     {
