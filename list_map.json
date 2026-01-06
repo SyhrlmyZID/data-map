@@ -1,6 +1,11 @@
 {
   "maps": [
     {
+      "name": "MT Yagesya",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yagesya.json",
+      "locked": false
+    },
+    {
       "name": "MT Gemi CVIP",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_gemi_coil_vip.json",
       "locked": false
